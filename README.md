@@ -1,6 +1,6 @@
 # OrangTuaBerdaya Backend
 
-Backend API untuk aplikasi OrangTuaBerdaya - platform untuk memberdayakan orang tua dalam mendidik dan mengembangkan anak-anak mereka.
+Backend API untuk aplikasi OrangTuaBerdaya - platform untuk memberdayakan orang tua.
 
 ## 🚀 Tech Stack
 
